@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2.0.6 - 2023-10-13
+
+- [Pull request #601: Add input classes to implement a part of #428](https://github.com/alphagov/accessible-autocomplete/pull/601)
+
 ## 2.0.5 - 2023-04-25
 
 - [Pull request #591: Add menuAttributes to fix #361](https://github.com/alphagov/accessible-autocomplete/pull/591)
